@@ -6,12 +6,13 @@ This study group is about internals of compilers, programming languages, distrib
 > *Month of March 2024 - 18th to 22nd*
 
 ### ⌘ Showcase
- CHIP-8 Emulator by @~Aadithyaa 
+ - CHIP-8 Emulator by [Aadithyaa](https://www.github.com/aadit-n3rdy)\
+   Project Link: [Chips](https://www.github.com/aadit-n3rdy/chips)
 
 ### ⌘ Hack Sessions:
-- Recreating Pong on bare metal @~Aadithyaa 
-- Containers from Scratch @Varsha (Admin)
-- Implementing x86 bootloader @Praneeth V
+- Recreating Pong on bare metal ~ [Aadithyaa](https://www.github.com/aadit-n3rdy)
+- Containers from Scratch ~ [Varsha](https://github.com/2SpaceMasterRace) 
+- Implementing x86 bootloader ~ [Praneeth](https://github.com/PraneethV-cmd)
 
 # Planned Events
 ### >> Month of April
@@ -50,7 +51,8 @@ As a rule of thumb, if your project idea can be found on a majority of other's r
 ### 2. No VSCODE
 Kind of a nitpick but please learn to use NeoVim or Vim or Emacs or Spacemacs or Helix or any other thing. Avoid Bloated IDEs and learn your goddamn environment, It is embarrassing to see CS majors not knowing how to debug errors and having everything setup for them. Like Feynman says, If you know something - you can implement it from scratch and explain it to 5 year olds.
 
-> **_NOTE:_** I wanna add in the No Mouse rule too in order to encourage productivity but I suck ass with it myself so imma let it be and make rules as we go by lol. Please do read the website and decide for yourself like an adult if the group's philosophy is for you or not. You are more than welcome to steal our ideas for yourself without necessarily participating. Any of our members would be more than happy to help, just don't be a jerk.
+> [!NOTE]
+> I wanna add in the No Mouse rule too in order to encourage productivity but I suck ass with it myself so imma let it be and make rules as we go by lol. Please do read the website and decide for yourself like an adult if the group's philosophy is for you or not. You are more than welcome to steal our ideas for yourself without necessarily participating. Any of our members would be more than happy to help, just don't be a jerk.
 
 # Feature List
      - Link Wiki to official website
@@ -71,7 +73,7 @@ It probably requires a GitHub repo, contact the lead anyway <link to username> o
 everyone else
 7. Present/read/develop the project, and have fun!
 
-## Contiributing to Existing Projects In the Repo
+## Contributing to Existing Projects In the Repo
 1. Refer each project for any possible GitHub issues
 2. Feel free to reach out to the primary developer of the project from the README file
 3. Follow any code guidelines specified in the README (chances of there being any guidelines

@@ -27,7 +27,7 @@ This study group is about the internals of compilers, programming languages, dis
 BSOD is a one-week jam where you implement a cool piece of software from scratch. Why build things from scratch? Because that's the only way real progress is made. Every impactful project started life as a small experiment. Plus, writing something from scratch turns theory into practice. You may think you know how a piece of technology works, but until you write it yourself, you truly wouldn't understand it completely.
 
 #### [x] OCaml My Caml :
-it's a week-long hacking retreat to work on a variety of OCaml projects, including but not limited to the compiler, concurrency libraries, platform tooling, and benchmarking. Dive into functional programming and learn to appreciate actual ML languages instead of drooling over whitepaper like Haskell ( We will soon be picking apart GHC btw).
+It's a week-long hacking retreat to work on a variety of OCaml projects, including but not limited to the compiler, concurrency libraries, platform tooling, and benchmarking. Dive into functional programming and learn to appreciate actual ML languages instead of drooling over whitepaper like Haskell ( We will soon be picking apart GHC btw).
 
 #### [x] Open Session :
 Free-for-all kind of event where people give talks, get help on their homework/projects, and work on random stuff. This is open to all and is an excellent way to figure out if this group is right for you. If you do not have an idea, a curated one will be provided to you. You can even just sit and watch what each member is doing without necessarily needing to pair-program (I learned so much more from reading others' code and working with others so I wish to recreate this).

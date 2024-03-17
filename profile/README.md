@@ -1,59 +1,93 @@
 # Welcome to Amrita Systems Reading Group!
-This study group is about the internals of compilers, programming languages, distributed systems, databases, file formats, internet protocols, operating systems, browsers, emulators, and other cool stuff + provides a community around this kind of exploration. You're not expected to have attended previous weeks and expected to adhere to the standards of the Geneva War Convention (optional).
+This study group is about the internals of compilers, programming languages, distributed systems, databases, file formats, internet protocols, operating systems, browsers, emulators, and other cool stuff + provides a community around this kind of exploration.  You're not expected to have attended previous weeks and expected to adhere to the standards of the Geneva War Convention (optional). 
+
+Since we're just starting out, we plan on meeting 2x a week on a random afternoon that will be decided in the WhatsApp GC and work on the planned topics listed here. Feel free to join us during these sessions and decide if this group is for you!
 
 # Upcoming Sessions
-> *Month of March 2024 - 18th to 22nd*
+```Pre-Season: March 25th, 2024 to March 29th 2024```
 
 ### ⌘ Showcase
  - [CHIP-8 Emulator](https://www.github.com/aadit-n3rdy/chips) by [Aadithyaa](https://www.github.com/aadit-n3rdy)
 
 ### ⌘ Hack Sessions:
-- Recreating Pong on Bare Metal - [Aadithyaa](https://www.github.com/aadit-n3rdy)
-- Containers from Scratch       - [varsha](https://github.com/2SpaceMasterRace) 
-- Implementing x86 BootLoader   - [Praneeth](https://github.com/PraneethV-cmd)
+- Recreating Pong on Bare-Metal                                                          by [Aadithyaa](https://www.github.com/aadit-n3rdy)
+
+- Containers from Scratch + Network programming in C with the Berkeley Sockets API       by [varsha](https://github.com/2SpaceMasterRace) 
+
+- Implementing x86 BootLoader                                                            by [Praneeth](https://github.com/PraneethV-cmd)
 
 # Planned Events
-### * Month of April
- ``` 
-[x] First Session     - TBA
-[x] Second Session    - Reviewing DOOM Source Code
-[x] Third Session     - 1 Billion Row challenge with your favorite language 
-[x] Fourth Session    - Go over the Crafting Interpreters Book
-[x] Fifth Session     - Advanced Data Structures and Algorithms 
- ```
+> *March 2024 - 25th to April 2024 - 5th*
+
+✦ TBA
+
+✦ Reviewing DOOM: Exploring DOOM 3 Source Code and the engineering behind it such as the Quake III arena engine, Binary Space Partitioning, Fast inverse square root algorithm, Lectures from John Carmack & more.
+
+✦ The 1 Billion Row challenge, Exploring Programming Language Runtimes, Crash Course into Low-Latency Systems and Large-Scale Backend Engineering. 
+
+
+✦ Go over the Crafting Interpreters Book, Dive into Reproducible builds with Nix and Reviewing Monarch: Google’s planet-scale in-memory Time Series Database.
+
+
+✦ Networking guide to the Internet, Practical end-to-end Authenticated Encryption, Speedrunning computer networking and Reading post-mortems of catastrophic failure in Big Tech Companies.
+
+✦ Internals of JAX, ML systems and Compilers, and SOTA papers such as Q* ++ a short look into the advancements in semiconductors and computer graphics (via confernces and by video-game companies). 
+
 ### * Scheduled Events
 
-#### [x] BSOD ( biweekly sessions of development ) :
-BSOD is a one-week jam where you implement a cool piece of software from scratch. Why build things from scratch? Because that's the only way real progress is made. Every impactful project started life as a small experiment. Plus, writing something from scratch turns theory into practice. You may think you know how a piece of technology works, but until you write it yourself, you truly wouldn't understand it completely.
+##### [x] BSOD ( biweekly sessions of development ) :
 
-#### [x] OCaml My Caml :
-It's a week-long hacking retreat to work on a variety of OCaml projects, including but not limited to the compiler, concurrency libraries, platform tooling, and benchmarking. Dive into functional programming and learn to appreciate actual ML languages instead of drooling over whitepaper like Haskell ( We will soon be picking apart GHC btw).
+> BSOD is a one-week intense jam where you implement a cool piece of software from scratch. Writing something from scratch turns theory into practice. You may think you know how a piece of technology works, but until you write it yourself, you truly wouldn't understand it completely.
 
-#### [x] Open Session :
-Free-for-all kind of event where people give talks, get help on their homework/projects, and work on random stuff. This is open to all and is an excellent way to figure out if this group is right for you. If you do not have an idea, a curated one will be provided to you. You can even just sit and watch what each member is doing without necessarily needing to pair-program (I learned so much more from reading others' code and working with others so I wish to recreate this).
+1. **ZigFest**: 8-day crash course into Zig and Systems Engineering by  *[varsha](https://github.com/2SpaceMasterRace)*
+
+     *Designing SIMD Algorithm from Scratch,  Build your own TCP/IP,   Modern SOTA in-memory cache implementation, Rebuilding redis from ground up.*       
+
+
+##### [x] OCaml My Caml :
+
+> A week-long hacking retreat to work on a variety of OCaml projects, including but not limited to the compiler, concurrency libraries, platform tooling, and benchmarking. Dive into functional programming and learn to appreciate actual ML languages instead of drooling over whitepaper like Haskell.
+
+
+##### [x] Open Session :
+
+> Free-for-all kind of event where people give talks, get help on their homework/projects, and work on random stuff. This is open to all and is an excellent way to integrate into the community. You can even just sit and watch what each member is doing without necessarily needing to pair-program.
+
+1. Build Centralized Package Registry for Go (like npm or crates) by RK
+2. Lex Friedman podcast specials (Andrej Karpathy, John Carmack, et al) by varsha
+3. Reverse Engineering WannaCry using Ghidra by varsha
+4. Cloud Infrastructure from scratch (Imagine Linode) by varsha
+5. Build your own AWS S3 by RK and varsha
+6. Tiny deep learning compiler written in C by varsha
+7. Cloudflare tools rebuild by varsha
+
+
+one person reads one article
+and everyone else half assedly questions and argues about it
 
 # Ground Rules & General Information
-The only requirements you need to join the study group are pure consistency and willingness to work and have fun. This is an all-inclusive community where there are little to no barriers (aside from the ground rules). Do visit the website to learn about our underlying philosophy and please refer to the [Left-Pad incident](https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/) on why harshly emphasize working on complex projects. This group is not for you if you only wanna do the bare minimum and stay in your comfort zone.
+The only requirements you need to join the study group are pure consistency and willingness to work and have fun. This is an all-inclusive community where there are little to no barriers (aside from the ground rules). Do visit the website to learn about our underlying philosophy and please refer to the [Left-Pad incident](https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/) on why harshly emphasize working on projects outside your comfort zone. This group is not for you if you only wanna do the bare minimum and stay in your comfort zone.
 
 ### 0. Unspoken Rule of ASRG
 You do not talk about ASRG. This might as well be an illegal gambling den and I might get expelled from Amrita for doing something cool. But please do share this with anyone who might be interested and save a life.
 
-### 1. No Normie Projects
+### 1. X No Normie Projects X
 This group is meant to explore the depths of CS and is meant to be **HARD**. My philosophy is essentially:
-
 
 > The more you train in battle, the less you bleed in war.
 
+If you wish to work in Big Tech companies handling large-scale issues, it's paramount that you know your fundamentals and there is no substitute for actual experience. 
 
-If you wish to work in Big Tech companies handling large-scale issues, it's paramount that you know your fundamentals and there is no substitute for actual experience.
+As a rule of thumb, if your project idea can be found on a majority of other's resumes - It is not a good idea. Come up with your own idea that solves an actual real world problem or if you lack creativity, exhaust the group's resources cause there is always something for everyone here.
 
-As a rule of thumb, if your project idea can be found on a majority of other's resumes - It is not a good idea. Come up with your own idea and have some originality ffs - if you lack creativity, exhaust the group's resources cause there is always something for everyone here (take a look at the headline in the website).
+### 2. Know your Tools !
+Kind of a nitpick but please learn to use NeoVim or Vim or Emacs or Spacemacs or Helix or any other thing. Avoid Bloated IDEs and learn your goddamn environment, It is embarrassing to see CS majors not knowing how to debug errors and getting too comfortable because everything is set up for them and abstracted away. 
 
-### 2. No VSCODE
-Kind of a nitpick but please learn to use NeoVim or Vim or Emacs or Spacemacs or Helix or any other thing. Avoid Bloated IDEs and learn your goddamn environment, It is embarrassing to see CS majors not knowing how to debug errors and getting comfortable because everything is set up for them. As Feynman says, If you know something - you can implement it from scratch and explain it to 5-year-olds.
+Just take some to learn to set stuff up, reading the docs and debug your tools - it really goes a long way. If you still prefer IDEs, we'd love to see you go blazingly fast and teach us about your favourite features (Amrita is hectic at times and we barely have 2 hours to work on the projects - it really helps if we're fast as hell).
+
 
 > [!NOTE]
-> Rule 2 exists to encourage people to improve their productivity and expand their boundaries. You are still allowed to join the study group and work with VS Code. I wanna add in the No Mouse rule too in order to encourage productivity but I suck ass with it myself so imma let it be and make rules as we go by lol. Please read the website and decide for yourself like an adult if the group's philosophy is for you or not. You are more than welcome to steal our ideas for yourself without necessarily participating. Any of our members would be more than happy to help, please remember not to be a jerk. These " Ground Rules " are not set in stone and just act as a deterrent to weed out people, that's all.
+> Rule 2 exists to encourage people to improve their productivity and expand their boundaries. You are still allowed to join the study group and work with VS Code and be slow. Any of our members would be more than happy to help, please remember not to be a jerk. These " Ground Rules " are not set in stone and just act as a deterrent to weed out people, that's all.
 
 # Feature List
     - Link Wiki to the official website
@@ -61,7 +95,7 @@ Kind of a nitpick but please learn to use NeoVim or Vim or Emacs or Spacemacs or
 
 # Contribution Guide:
 
-## Project Ideas
+### Project Ideas
 1. Check if your project ideas satisfy the requirements specified in the ground rules.
 2. If so, check the existing project ideas to see if your idea integrates nicely with one
 of them, or if it is a separate project on its own.
@@ -74,7 +108,7 @@ It probably requires a GitHub repo, contact the lead anyway <link to username> o
 everyone else.
 7. Present/read/develop the project, and have fun!
 
-## Contributing to Existing Projects
+### Contributing to Existing Projects
 1. Refer to each project for any possible GitHub issues.
 2. Feel free to reach out to the primary developer of the project from the README file.
 3. Follow any code guidelines specified in the README (chances of there being any guidelines whatsoever are pretty slim).

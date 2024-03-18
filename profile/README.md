@@ -21,17 +21,27 @@ Since we're just starting out, we plan on meeting 2x a week on a random afternoo
 
 ✦ TBA
 
-✦ Reviewing DOOM: Exploring DOOM 3 Source Code and the engineering behind it such as the Quake III arena engine, Binary Space Partitioning, Fast inverse square root algorithm, Lectures from John Carmack & more.
+✦ **Reviewing DOOM**: 
 
-✦ The 1 Billion Row challenge, Exploring Programming Language Runtimes, Crash Course into Low-Latency Systems and Large-Scale Backend Engineering. 
+Explore DOOM 3 Source Code and the engineering behind it such as the Quake III arena engine, Binary Space Partitioning, Fast inverse square root algorithm, Lectures from John Carmack & more.
+
+✦ **PL & The Web**:
+
+The 1 Billion Row challenge, Exploring Programming Language Runtimes, Crash Course into Low-Latency Systems and Large-Scale Backend Engineering. 
 
 
-✦ Go over the Crafting Interpreters Book, Dive into Reproducible builds with Nix and Reviewing Monarch: Google’s planet-scale in-memory Time Series Database.
+✦ **Interpreters, Package Mangers and Planatery databases**:
+
+Go over the Crafting Interpreters Book, Dive into Reproducible builds with Nix and Reviewing Monarch: Google’s planet-scale in-memory Time Series Database.
 
 
-✦ Networking guide to the Internet, Practical end-to-end Authenticated Encryption, Speedrunning computer networking and Reading post-mortems of catastrophic failure in Big Tech Companies.
+✦ **Networking guide to the Internet**:
 
-✦ Internals of JAX, ML systems and Compilers, and SOTA papers such as Q* ++ a short look into the advancements in semiconductors and computer graphics (via confernces and by video-game companies). 
+Intro to Networking fundamentals, Practical end-to-end Authenticated Encryption, Speedrunning computer networking and Reading Posta-Mortems of catastrophic failure in Big Tech Companies.
+
+✦ **ML systems & Advanced Hardware (Semiconductors + GPU)**:
+
+Internals of JAX, ML systems and Compilers, and SOTA papers such as Q*, a short look into the advancements in semiconductors and computer graphics (via confernces and by video-game companies blog-posts). 
 
 ### * Scheduled Events
 
@@ -53,17 +63,28 @@ Since we're just starting out, we plan on meeting 2x a week on a random afternoo
 
 > Free-for-all kind of event where people give talks, get help on their homework/projects, and work on random stuff. This is open to all and is an excellent way to integrate into the community. You can even just sit and watch what each member is doing without necessarily needing to pair-program.
 
-1. Build Centralized Package Registry for Go (like npm or crates) by RK
-2. Lex Friedman podcast specials (Andrej Karpathy, John Carmack, et al) by varsha
-3. Reverse Engineering WannaCry using Ghidra by varsha
-4. Cloud Infrastructure from scratch (Imagine Linode) by varsha
-5. Build your own AWS S3 by RK and varsha
-6. Tiny deep learning compiler written in C by varsha
-7. Cloudflare tools rebuild by varsha
+1. Build Centralized Package Registry for Go (like npm or crates)
+        
+    [Ritesh Koushik](https://github.com/IAmRiteshKoushik)
+2. Lex Friedman podcast specials (Andrej Karpathy, John Carmack, et al)
 
+    [varsha](https://github.com/2SpaceMasterRace) (Contributors Welcome!)
+3. Reverse Engineering WannaCry using Ghidra 
 
-one person reads one article
-and everyone else half assedly questions and argues about it
+   [varsha](https://github.com/2SpaceMasterRace) (Contributors Welcome!)
+4. Cloud Infrastructure from scratch (Imagine Linode) 
+
+   [varsha](https://github.com/2SpaceMasterRace) (Contributors Welcome!)
+5. Build your own AWS S3 
+
+   [RK](https://github.com/IAmRiteshKoushik) and [varsha](https://github.com/2SpaceMasterRace) (Contributors Welcome!)
+6. Tiny deep learning compiler written in C
+
+   [varsha](https://github.com/2SpaceMasterRace) 
+7. Cloudflare tools rebuild
+
+   [varsha](https://github.com/2SpaceMasterRace) (Contributors Welcome!)
+
 
 # Ground Rules & General Information
 The only requirements you need to join the study group are pure consistency and willingness to work and have fun. This is an all-inclusive community where there are little to no barriers (aside from the ground rules). Do visit the website to learn about our underlying philosophy and please refer to the [Left-Pad incident](https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/) on why harshly emphasize working on projects outside your comfort zone. This group is not for you if you only wanna do the bare minimum and stay in your comfort zone.
@@ -71,7 +92,7 @@ The only requirements you need to join the study group are pure consistency and 
 ### 0. Unspoken Rule of ASRG
 You do not talk about ASRG. This might as well be an illegal gambling den and I might get expelled from Amrita for doing something cool. But please do share this with anyone who might be interested and save a life.
 
-### 1. X No Normie Projects X
+### 1. No Normie Projects 
 This group is meant to explore the depths of CS and is meant to be **HARD**. My philosophy is essentially:
 
 > The more you train in battle, the less you bleed in war.

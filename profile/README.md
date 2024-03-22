@@ -4,20 +4,22 @@ This study group is about the internals of compilers, programming languages, dis
 Since we're just starting out, we plan on meeting 2x a week on a random afternoon that will be decided in the WhatsApp GC and work on the planned topics listed here. Feel free to join us during these sessions and decide if this group is for you!
 
 # Upcoming Sessions
-```Pre-Season: March 25th, 2024 to March 29th 2024```
+```Pre-Season: March 27th, 2024 to April 5th 2024```
 
 ### ⌘ Showcase
  - [CHIP-8 Emulator](https://www.github.com/aadit-n3rdy/chips) by [Aadithyaa](https://www.github.com/aadit-n3rdy)
+ - Simple Git-Server on EC2 by [Ritesh Koushik](https://github.com/IAmRiteshKoushik)
+ - [UNDER-REVIEW] The Engineering behind Regex & Email by [Varsha](https://github.com/2SpaceMasterRace) 
 
 ### ⌘ Hack Sessions:
 - Recreating Pong on Bare-Metal                                                          by [Aadithyaa](https://www.github.com/aadit-n3rdy)
 
-- Containers from Scratch + Network programming in C with the Berkeley Sockets API       by [varsha](https://github.com/2SpaceMasterRace) 
+- Containers from Scratch + Network programming in C x Berkeley Sockets API       by [Varsha](https://github.com/2SpaceMasterRace) 
 
 - Implementing x86 BootLoader                                                            by [Praneeth](https://github.com/PraneethV-cmd)
 
 # Planned Events
-> *March 2024 - 25th to April 2024 - 5th*
+> ### *March 2024 - April 2024*
 
 ✦ TBA
 
@@ -37,19 +39,19 @@ Go over the Crafting Interpreters Book, Dive into Reproducible builds with Nix a
 
 ✦ **Networking guide to the Internet**:
 
-Intro to Networking fundamentals, Practical end-to-end Authenticated Encryption, Speedrunning computer networking and Reading Posta-Mortems of catastrophic failure in Big Tech Companies.
+Intro to Networking fundamentals, Practical end-to-end Authenticated Encryption, Speedrunning computer networking and Reading Post-Mortems of catastrophic failure in Big Tech Companies.
 
 ✦ **ML systems & Advanced Hardware (Semiconductors + GPU)**:
 
-Internals of JAX, ML systems and Compilers, and SOTA papers such as Q*, a short look into the advancements in semiconductors and computer graphics (via confernces and by video-game companies blog-posts). 
+Internals of JAX, ML systems and Compilers, SOTA papers such as Q*, short look into the advancements in semiconductors and computer graphics (via conferences, video game company specific blog-posts etc). 
 
-### * Scheduled Events
+#  Scheduled Events
 
 ##### [x] BSOD ( biweekly sessions of development ) :
 
 > BSOD is a one-week intense jam where you implement a cool piece of software from scratch. Writing something from scratch turns theory into practice. You may think you know how a piece of technology works, but until you write it yourself, you truly wouldn't understand it completely.
 
-1. **ZigFest**: 8-day crash course into Zig and Systems Engineering by  *[varsha](https://github.com/2SpaceMasterRace)*
+1. **ZigFest**: 8-day crash course into Zig and Systems Engineering by  *[Varsha](https://github.com/2SpaceMasterRace)*
 
      *Designing SIMD Algorithm from Scratch,  Build your own TCP/IP,   Modern SOTA in-memory cache implementation, Rebuilding redis from ground up.*       
 
@@ -63,29 +65,22 @@ Internals of JAX, ML systems and Compilers, and SOTA papers such as Q*, a short 
 
 > Free-for-all kind of event where people give talks, get help on their homework/projects, and work on random stuff. This is open to all and is an excellent way to integrate into the community. You can even just sit and watch what each member is doing without necessarily needing to pair-program.
 
-1. Build Centralized Package Registry for Go (like npm or crates)
-        
-    [Ritesh Koushik](https://github.com/IAmRiteshKoushik)
-2. Lex Friedman podcast specials (Andrej Karpathy, John Carmack, et al)
+[Ritesh Koushik](https://github.com/IAmRiteshKoushik)
 
-    [varsha](https://github.com/2SpaceMasterRace) (Contributors Welcome!)
-3. Reverse Engineering WannaCry using Ghidra 
+     1. Build Centralized Package Registry for Go (like npm or crates)
+     2. Build your own AWS S3 (-collabs: Varsha)
 
-   [varsha](https://github.com/2SpaceMasterRace) (Contributors Welcome!)
-4. Cloud Infrastructure from scratch (Imagine Linode) 
+[Varsha](https://github.com/2SpaceMasterRace) (Contributors Welcome!)
 
-   [varsha](https://github.com/2SpaceMasterRace) (Contributors Welcome!)
-5. Build your own AWS S3 
+        1. Lex Friedman podcast specials (Andrej Karpathy, John Carmack, et al)
+        2. Reverse Engineering WannaCry using Ghidra
+        3. Cloud Infrastructure from scratch (Imagine Linode) 
+        4. Tiny deep learning compiler written in C
+        5. Cloudflare tools rebuild fest
+        6. Build your own TPU from scratch
+        7. Formal methods & SAT solvers 
 
-   [RK](https://github.com/IAmRiteshKoushik) and [varsha](https://github.com/2SpaceMasterRace) (Contributors Welcome!)
-6. Tiny deep learning compiler written in C
-
-   [varsha](https://github.com/2SpaceMasterRace) 
-7. Cloudflare tools rebuild
-
-   [varsha](https://github.com/2SpaceMasterRace) (Contributors Welcome!)
-
-
+       
 # Ground Rules & General Information
 The only requirements you need to join the study group are pure consistency and willingness to work and have fun. This is an all-inclusive community where there are little to no barriers (aside from the ground rules). Do visit the website to learn about our underlying philosophy and please refer to the [Left-Pad incident](https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/) on why harshly emphasize working on projects outside your comfort zone. This group is not for you if you only wanna do the bare minimum and stay in your comfort zone.
 

@@ -14,9 +14,15 @@ Since we're just starting out, we plan on meeting 2x a week on a random afternoo
 ### ⌘ Hack Sessions:
 - Recreating Pong on Bare-Metal                                                          by [Aadithyaa](https://www.github.com/aadit-n3rdy)
 
-- Containers from Scratch + Network programming in C x Berkeley Sockets API       by [Varsha](https://github.com/2SpaceMasterRace) 
-
 - Implementing x86 BootLoader                                                            by [Praneeth](https://github.com/PraneethV-cmd)
+
+- [Varsha](https://github.com/2SpaceMasterRace) 
+
+   - Disk based Log Structured Hash Table Store in C
+   - Network programming in C x Berkeley Sockets API
+    - Containers from Scratch with Go
+    - Tiny deep learning compiler written in C
+     - Multi-Threaded Proxy Server in C
 
 # Planned Events
 > ### *March 2024 - April 2024*
@@ -51,9 +57,21 @@ Internals of JAX, ML systems and Compilers, SOTA papers such as Q*, short look i
 
 > BSOD is a one-week intense jam where you implement a cool piece of software from scratch. Writing something from scratch turns theory into practice. You may think you know how a piece of technology works, but until you write it yourself, you truly wouldn't understand it completely.
 
-1. **ZigFest**: 8-day crash course into Zig and Systems Engineering by  *[Varsha](https://github.com/2SpaceMasterRace)*
+1. **ZigFest**: 8-day crash course into Zig and Systems Engineering by  [Varsha](https://github.com/2SpaceMasterRace)
 
      *Designing SIMD Algorithm from Scratch,  Build your own TCP/IP,   Modern SOTA in-memory cache implementation, Rebuilding redis from ground up.*       
+
+2. **OS-Dev**: 4 week speedrun of building a mini-os from scratch with Rust and C by  [Varsha](https://github.com/2SpaceMasterRace)
+
+     *Implementing a kernel from scratch, exploring the C run-time model, concurrency and hypervisors, and much more hell has to offer !*       
+
+3. **UNIX Jam**: 1 week festival of intense systems programming and high performance optimizations by  [Varsha](https://github.com/2SpaceMasterRace)
+
+     *Deep look into io_uring and eBPF, recreate coreutils with your favourite language, distributed system challenges, writing x86 assembly for FFMPEG and so much more fun stuff.*       
+
+4. **Compiler Construction**: 10-day jam of building modern compilers by  [Varsha](https://github.com/2SpaceMasterRace)
+
+     *SOTA compiler optimization techniques, design experimental features, work on your own virtual machine around it, learn from other more established compilers.*       
 
 
 ##### [x] OCaml My Caml :
@@ -72,13 +90,13 @@ Internals of JAX, ML systems and Compilers, SOTA papers such as Q*, short look i
 
 [Varsha](https://github.com/2SpaceMasterRace) (Contributors Welcome!)
 
-        1. Lex Friedman podcast specials (Andrej Karpathy, John Carmack, et al)
+        1. Watch Party: Lex Friedman Podcast Specials (Andrej Karpathy, John Carmack, et al)
         2. Reverse Engineering WannaCry using Ghidra
         3. Cloud Infrastructure from scratch (Imagine Linode) 
-        4. Tiny deep learning compiler written in C
-        5. Cloudflare tools rebuild fest
-        6. Build your own TPU from scratch
-        7. Formal methods & SAT solvers 
+        4. Cloudflare tools rebuild fest
+        5. Build your own TPU from scratch
+        6. Formal methods & SAT solvers
+       
 
        
 # Ground Rules & General Information

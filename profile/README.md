@@ -4,25 +4,30 @@ This study group is about the internals of compilers, programming languages, dis
 Since we're just starting out, we plan on meeting 2x a week on a random afternoon that will be decided in the WhatsApp GC and work on the planned topics listed here. Feel free to join us during these sessions and decide if this group is for you!
 
 # Upcoming Sessions
-```Pre-Season: March 27th, 2024 to April 5th 2024```
+```Pre-Season 02: TBD```
 
 ### ⌘ Showcase
- - [CHIP-8 Emulator](https://www.github.com/aadit-n3rdy/chips) by [Aadithyaa](https://www.github.com/aadit-n3rdy)
  - Simple Git-Server on EC2 by [Ritesh Koushik](https://github.com/IAmRiteshKoushik)
  - [UNDER-REVIEW] The Engineering behind Regex & Email by [Varsha](https://github.com/2SpaceMasterRace) 
 
 ### ⌘ Hack Sessions:
-- Recreating Pong on Bare-Metal                                                          by [Aadithyaa](https://www.github.com/aadit-n3rdy)
-
-- Implementing x86 BootLoader                                                            by [Praneeth](https://github.com/PraneethV-cmd)
 
 - [Varsha](https://github.com/2SpaceMasterRace) 
 
-   - Disk based Log Structured Hash Table Store in C
-   - Network programming in C x Berkeley Sockets API
-    - Containers from Scratch with Go
-    - Tiny deep learning compiler written in C
-     - Multi-Threaded Proxy Server in C
+   - Containers from Scratch with Go
+   - _Upcoming_:
+      - Disk based Log Structured Hash Table Store in C
+      - Network programming in C x Berkeley Sockets API
+      - Tiny deep learning compiler written in C
+      - Multi-Threaded Proxy Server in C
+
+
+### ⌘ Past Sessions:
+```Pre-Season 01: April 7th, 2024```
+ - ~~[CHIP-8 Emulator](https://www.github.com/aadit-n3rdy/chips) by [Aadithyaa](https://www.github.com/aadit-n3rdy)~~
+ - ~~Recreating Pong on Bare-Metal by [Aadithyaa](https://www.github.com/aadit-n3rdy)~~ 
+ - ~~Implementing x86 BootLoader by [Praneeth](https://github.com/PraneethV-cmd)~~
+
 
 # Planned Events
 > ### *March 2024 - April 2024*

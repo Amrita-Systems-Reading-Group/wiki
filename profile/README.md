@@ -1,7 +1,7 @@
 # Welcome to Amrita Systems Reading Group!
 This study group is about the internals of compilers, programming languages, distributed systems, databases, file formats, internet protocols, operating systems, browsers, emulators, and other cool stuff + provides a community around this kind of exploration.  You're not expected to have attended previous weeks and expected to adhere to the standards of the Geneva War Convention (optional). 
 
-Since we're just starting out, we plan on meeting 2x a week on a random afternoon that will be decided in the WhatsApp GC and work on the planned topics listed here. Feel free to join us during these sessions and decide if this group is for you!
+Since we're just starting out, we plan on meeting 2x a week on a random afternoon that will be decided in the WhatsApp/Discord GC and work on the planned topics listed here. Feel free to join us during these sessions and decide if this group suits you!
 
 # Upcoming Sessions
 ```Pre-Season 02: TBD```
@@ -14,13 +14,11 @@ Since we're just starting out, we plan on meeting 2x a week on a random afternoo
 
 - [Varsha](https://github.com/2SpaceMasterRace) 
 
-   - Containers from Scratch with Go
    - _Upcoming_:
-      - Disk based Log Structured Hash Table Store in C
+      - Disk-based Log-Structured Hash Table Store in C
       - Network programming in C x Berkeley Sockets API
       - Tiny deep learning compiler written in C
-      - Multi-Threaded Proxy Server in C
-
+      - Multi-threaded proxy Server in C
 
 ### ⌘ Past Sessions:
 ```Pre-Season 01: April 7th, 2024```
@@ -30,31 +28,31 @@ Since we're just starting out, we plan on meeting 2x a week on a random afternoo
 
 
 # Planned Events
-> ### *March 2024 - April 2024*
+> ### *July 2024 - October 2024*
 
 ✦ TBA
 
 ✦ **Reviewing DOOM**: 
 
-Explore DOOM 3 Source Code and the engineering behind it such as the Quake III arena engine, Binary Space Partitioning, Fast inverse square root algorithm, Lectures from John Carmack & more.
+Explore DOOM 3 Source Code and its engineering, such as the Quake III arena engine, Binary Space Partitioning, Fast inverse square root algorithm, Lectures from John Carmack & more.
 
 ✦ **PL & The Web**:
 
-The 1 Billion Row challenge, Exploring Programming Language Runtimes, Crash Course into Low-Latency Systems and Large-Scale Backend Engineering. 
+The 1 Billion Row Challenge, Exploring Programming Language Runtimes, Crash Course into Low-Latency Systems and Large-Scale Backend Engineering. 
 
 
-✦ **Interpreters, Package Mangers and Planatery databases**:
+✦ **Interpreters, Package managers, and Planetary databases**:
 
-Go over the Crafting Interpreters Book, Dive into Reproducible builds with Nix and Reviewing Monarch: Google’s planet-scale in-memory Time Series Database.
+Go over the Crafting Interpreters Book, Dive into Reproducible builds with Nix, and review Monarch: Google’s planet-scale in-memory Time Series Database.
 
 
 ✦ **Networking guide to the Internet**:
 
-Intro to Networking fundamentals, Practical end-to-end Authenticated Encryption, Speedrunning computer networking and Reading Post-Mortems of catastrophic failure in Big Tech Companies.
+Intro to Networking fundamentals, Practical end-to-end Authenticated Encryption, Speedrunning computer networking, and Reading Post-Mortems of Catastrophic Failure in Big Tech Companies.
 
 ✦ **ML systems & Advanced Hardware (Semiconductors + GPU)**:
 
-Internals of JAX, ML systems and Compilers, SOTA papers such as Q*, short look into the advancements in semiconductors and computer graphics (via conferences, video game company specific blog-posts etc). 
+Internals of JAX, ML systems and Compilers, SOTA papers such as Q*, and KANs, a short look into the advancements in semiconductors and computer graphics (via conferences, video game company-specific blog posts, etc). 
 
 #  Scheduled Events
 
@@ -64,15 +62,15 @@ Internals of JAX, ML systems and Compilers, SOTA papers such as Q*, short look i
 
 1. **ZigFest**: 8-day crash course into Zig and Systems Engineering by  [Varsha](https://github.com/2SpaceMasterRace)
 
-     *Designing SIMD Algorithm from Scratch,  Build your own TCP/IP,   Modern SOTA in-memory cache implementation, Rebuilding redis from ground up.*       
+     *Designing SIMD Algorithm from Scratch,  Building your own TCP/IP,   Modern SOTA in-memory cache implementation, and Rebuilding Redis from the ground up.*       
 
-2. **OS-Dev**: 4 week speedrun of building a mini-os from scratch with Rust and C by  [Varsha](https://github.com/2SpaceMasterRace)
+2. **OS-Dev**: 4-week speedrun of building a mini-os from scratch with Rust and C by  [Varsha](https://github.com/2SpaceMasterRace)
 
      *Implementing a kernel from scratch, exploring the C run-time model, concurrency and hypervisors, and much more hell has to offer !*       
 
-3. **UNIX Jam**: 1 week festival of intense systems programming and high performance optimizations by  [Varsha](https://github.com/2SpaceMasterRace)
+3. **UNIX Jam**: 1-week festival of intense systems programming and high-performance optimizations by  [Varsha](https://github.com/2SpaceMasterRace)
 
-     *Deep look into io_uring and eBPF, recreate coreutils with your favourite language, distributed system challenges, writing x86 assembly for FFMPEG and so much more fun stuff.*       
+     *Deep look into io_uring and eBPF, recreate coreutils with your favorite language, distributed system challenges, writing x86 assembly for FFMPEG and so much more fun stuff.*       
 
 4. **Compiler Construction**: 10-day jam of building modern compilers by  [Varsha](https://github.com/2SpaceMasterRace)
 
@@ -81,16 +79,16 @@ Internals of JAX, ML systems and Compilers, SOTA papers such as Q*, short look i
 
 ##### [x] OCaml My Caml :
 
-> A week-long hacking retreat to work on a variety of OCaml projects, including but not limited to the compiler, concurrency libraries, platform tooling, and benchmarking. Dive into functional programming and learn to appreciate actual ML languages instead of drooling over whitepaper like Haskell.
+> A week-long hacking retreat to work on a variety of OCaml projects, including but not limited to the compiler, concurrency libraries, platform tooling, and benchmarking. Dive into functional programming and learn to appreciate actual ML languages instead of drooling over a whitepaper like Haskell.
 
 
 ##### [x] Open Session :
 
-> Free-for-all kind of event where people give talks, get help on their homework/projects, and work on random stuff. This is open to all and is an excellent way to integrate into the community. You can even just sit and watch what each member is doing without necessarily needing to pair-program.
+> Free-for-all kind of event where people give talks, get help on their homework/projects and work on random stuff. This is open to all and is an excellent way to integrate into the community. You can even just sit and watch what each member is doing without necessarily needing to pair-program.
 
 [Ritesh Koushik](https://github.com/IAmRiteshKoushik)
 
-     1. Build Centralized Package Registry for Go (like npm or crates)
+     1. Build a Centralized Package Registry for Go (like npm or crates)
      2. Build your own AWS S3 (-collabs: Varsha)
 
 [Varsha](https://github.com/2SpaceMasterRace) (Contributors Welcome!)
@@ -117,20 +115,19 @@ This group is meant to explore the depths of CS and is meant to be **HARD**. My 
 
 If you wish to work in Big Tech companies handling large-scale issues, it's paramount that you know your fundamentals and there is no substitute for actual experience. 
 
-As a rule of thumb, if your project idea can be found on a majority of other's resumes - It is not a good idea. Come up with your own idea that solves an actual real world problem or if you lack creativity, exhaust the group's resources cause there is always something for everyone here.
+As a rule of thumb, if your project idea can be found on a majority of other's resumes - It is not a good idea. Come up with your own idea that solves an actual real-world problem or if you lack creativity, exhaust the group's resources cause there is always something for everyone here.
 
 ### 2. Know your Tools !
 Kind of a nitpick but please learn to use NeoVim or Vim or Emacs or Spacemacs or Helix or any other thing. Avoid Bloated IDEs and learn your goddamn environment, It is embarrassing to see CS majors not knowing how to debug errors and getting too comfortable because everything is set up for them and abstracted away. 
 
-Just take some to learn to set stuff up, reading the docs and debug your tools - it really goes a long way. If you still prefer IDEs, we'd love to see you go blazingly fast and teach us about your favourite features (Amrita is hectic at times and we barely have 2 hours to work on the projects - it really helps if we're fast as hell).
+Just take some to learn to set stuff up, read the docs, and debug your tools - it really goes a long way. If you still prefer IDEs, we'd love to see you go blazingly fast and teach us about your favorite features (Amrita is hectic at times and we barely have 2 hours to work on the projects - it really helps if we're fast as hell).
 
 
 > [!NOTE]
 > Rule 2 exists to encourage people to improve their productivity and expand their boundaries. You are still allowed to join the study group and work with VS Code and be slow. Any of our members would be more than happy to help, please remember not to be a jerk. These " Ground Rules " are not set in stone and just act as a deterrent to weed out people, that's all.
 
 # Feature List
-    - Link Wiki to the official website
-    - Update topics + links on the website after every session 
+    - Contributions welcome!
 
 # Contribution Guide:
 

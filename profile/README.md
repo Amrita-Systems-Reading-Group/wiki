@@ -15,10 +15,10 @@ Since we're just starting out, we plan on meeting 2x a week on a random afternoo
 - [Varsha](https://github.com/2SpaceMasterRace) 
 
    - _Upcoming_:
-      - Disk-based Log-Structured Hash Table Store in C
+      - Disk-based Log-Structured Hash Table Store in Go
       - Network programming in C x Berkeley Sockets API
-      - Tiny deep learning compiler written in C
-      - Multi-threaded proxy Server in C
+      - Tiny deep learning compiler written in C++
+      - Multi-threaded proxy Server in Zig
 
 ### ⌘ Past Sessions:
 ```Pre-Season 01: April 7th, 2024```
@@ -95,10 +95,9 @@ Internals of JAX, ML systems and Compilers, SOTA papers such as Q*, and KANs, a 
 
         1. Watch Party: Lex Friedman Podcast Specials (Andrej Karpathy, John Carmack, et al)
         2. Reverse Engineering WannaCry using Ghidra
-        3. Cloud Infrastructure from scratch (Imagine Linode) 
-        4. Cloudflare tools rebuild fest
-        5. Build your own TPU from scratch
-        6. Formal methods & SAT solvers
+        3. Cloud Infrastructure from scratch (Imagine Railway) 
+        4. SystemsCon - hack around popular oss projects
+        5. Formal methods & SAT solvers
        
 
        

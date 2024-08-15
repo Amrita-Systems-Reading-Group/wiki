@@ -4,15 +4,21 @@ This study group is about the internals of compilers, programming languages, dis
 Since we're just starting out, we plan on meeting 2x a week on a random afternoon that will be decided in the WhatsApp/Discord GC and work on the planned topics listed here. Feel free to join us during these sessions and decide if this group suits you!
 
 # Upcoming Sessions
-```Pre-Season 02: TBD```
+```Pre-Season 02: August 17, 2024```
+ [vxsha-256](https://github.com/2SpaceMasterRace) 
+- Zig internals + state of codebase
+- First Chapter of Designing Data-Intensive Applications
+- Hash Table Internals
+- Paper-Review: Raft Protocol
+- Personal Devlopment Environment: Basics with Omakub by DHH
 
 ### ⌘ Showcase
  - Simple Git-Server on EC2 by [Ritesh Koushik](https://github.com/IAmRiteshKoushik)
- - [UNDER-REVIEW] The Engineering behind Regex & Email by [Varsha](https://github.com/2SpaceMasterRace) 
+ - [UNDER-REVIEW] The Engineering behind Regex & Email by [vxsha-256](https://github.com/2SpaceMasterRace) 
 
 ### ⌘ Hack Sessions:
 
-- [Varsha](https://github.com/2SpaceMasterRace) 
+- [vxsha-256](https://github.com/2SpaceMasterRace) 
 
    - _Upcoming_:
       - Disk-based Log-Structured Hash Table Store in Go
@@ -60,19 +66,19 @@ Internals of JAX, ML systems and Compilers, SOTA papers such as Q*, and KANs, a 
 
 > BSOD is a one-week intense jam where you implement a cool piece of software from scratch. Writing something from scratch turns theory into practice. You may think you know how a piece of technology works, but until you write it yourself, you truly wouldn't understand it completely.
 
-1. **ZigFest**: 8-day crash course into Zig and Systems Engineering by  [Varsha](https://github.com/2SpaceMasterRace)
+1. **ZigFest**: 8-day crash course into Zig and Systems Engineering by  [vxsha-256](https://github.com/2SpaceMasterRace)
 
      *Designing SIMD Algorithm from Scratch,  Building your own TCP/IP,   Modern SOTA in-memory cache implementation, and Rebuilding Redis from the ground up.*       
 
-2. **OS-Dev**: 4-week speedrun of building a mini-os from scratch with Rust and C by  [Varsha](https://github.com/2SpaceMasterRace)
+2. **OS-Dev**: 4-week speedrun of building a mini-os from scratch with Rust and C by  [vxsha-256](https://github.com/2SpaceMasterRace)
 
      *Implementing a kernel from scratch, exploring the C run-time model, concurrency and hypervisors, and much more hell has to offer !*       
 
-3. **UNIX Jam**: 1-week festival of intense systems programming and high-performance optimizations by  [Varsha](https://github.com/2SpaceMasterRace)
+3. **UNIX Jam**: 1-week festival of intense systems programming and high-performance optimizations by  [vxsha-256](https://github.com/2SpaceMasterRace)
 
      *Deep look into io_uring and eBPF, recreate coreutils with your favorite language, distributed system challenges, writing x86 assembly for FFMPEG and so much more fun stuff.*       
 
-4. **Compiler Construction**: 10-day jam of building modern compilers by  [Varsha](https://github.com/2SpaceMasterRace)
+4. **Compiler Construction**: 10-day jam of building modern compilers by  [vxsha-256](https://github.com/2SpaceMasterRace)
 
      *SOTA compiler optimization techniques, design experimental features, work on your own virtual machine around it, learn from other more established compilers.*       
 
@@ -89,9 +95,9 @@ Internals of JAX, ML systems and Compilers, SOTA papers such as Q*, and KANs, a 
 [Ritesh Koushik](https://github.com/IAmRiteshKoushik)
 
      1. Build a Centralized Package Registry for Go (like npm or crates)
-     2. Build your own AWS S3 (-collabs: Varsha)
+     2. Build your own AWS S3 
 
-[Varsha](https://github.com/2SpaceMasterRace) (Contributors Welcome!)
+[vxsha-256](https://github.com/2SpaceMasterRace) (Contributors Welcome!)
 
         1. Watch Party: Lex Friedman Podcast Specials (Andrej Karpathy, John Carmack, et al)
         2. Reverse Engineering WannaCry using Ghidra

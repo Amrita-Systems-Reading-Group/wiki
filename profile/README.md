@@ -71,7 +71,7 @@ Internals of JAX, ML systems and Compilers, SOTA papers such as Q*, and KANs, a 
 
 2. **Deployment from Scratch**: over-engineering a website as of 2024 by [vxsha-256](https://github.com/2SpaceMasterRace)
 
-     *Learn how how web-apps work in production by working on our very own website - ASRG.tech! Learn the fundamentals for setting up servers and provisioning databases while gaining real-life experience !*       
+     *Learn how how web-apps work in production by working on our very own website - ASRG.tech! Learn the fundamentals for setting up servers and provisioning databases while gaining real-life experience.*       
 3. **OS-Dev**: 4-week speedrun of building a mini-os from scratch with Rust and C by  [vxsha-256](https://github.com/2SpaceMasterRace)
 
      *Implementing a kernel from scratch, exploring the C run-time model, concurrency and hypervisors, and much more hell has to offer !*       

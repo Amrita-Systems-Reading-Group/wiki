@@ -1,7 +1,7 @@
 # Welcome to Amrita Systems Reading Group!
-This study group is about the internals of compilers, programming languages, distributed systems, databases, file formats, internet protocols, operating systems, browsers, emulators, and other cool stuff + provides a community around this kind of exploration.  You're not expected to have attended previous weeks and expected to adhere to the standards of the Geneva War Convention (optional). 
+This study group is about the internals of compilers, programming languages, distributed systems, databases, file formats, internet protocols, operating systems, browsers, emulators, and to build a community around this kind of exploration.  You're not expected to have attended previous weeks and expected to adhere to the standards of the Geneva War Convention (optional). 
 
-Since we're just starting out, we plan on meeting 2x a week on a random afternoon that will be decided in the WhatsApp/Discord GC and work on the planned topics listed here. Feel free to join us during these sessions and decide if this group suits you!
+Since we're just starting out, we plan on meeting once a month on a random Sunday afternoon that will be decided in the WhatsApp/Discord GC and work on the planned topics listed here. Feel free to join us during these sessions and decide if this group suits you!
 
 # Upcoming Sessions
 ```Pre-Season 02: August 17, 2024``` by [vxsha-256](https://github.com/2SpaceMasterRace) 

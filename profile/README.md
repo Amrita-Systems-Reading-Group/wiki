@@ -4,7 +4,7 @@ This study group is about the internals of compilers, programming languages, dis
 Since we're just starting out, we plan on meeting once a month on a random Sunday afternoon that will be decided in the WhatsApp/Discord GC and work on the planned topics listed here. Feel free to join us during these sessions and decide if this group suits you!
 
 # Upcoming Sessions
-```Pre-Season 02: August 17, 2024``` by [vxsha-256](https://github.com/2SpaceMasterRace) 
+```Pre-Season 02: August 18, 2024``` by [vxsha-256](https://github.com/2SpaceMasterRace) 
 - Zig internals + state of codebase
 - First Chapter of Designing Data-Intensive Applications
 - Hash Table Internals

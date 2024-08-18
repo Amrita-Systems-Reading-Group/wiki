@@ -6,14 +6,17 @@ Since we're just starting out, we plan on meeting once a month on a random Sunda
 # Upcoming Sessions
 ```Pre-Season 02: August 18, 2024``` by [vxsha-256](https://github.com/2SpaceMasterRace) 
 - Zig internals + state of codebase
-- First Chapter of Designing Data-Intensive Applications
-- Hash Table Internals
-- Paper-Review: Raft Protocol
 - Personal Devlopment Environment: Basics with Omakub by DHH
 
 ### ⌘ Showcase
  - Simple Git-Server on EC2 by [Ritesh Koushik](https://github.com/IAmRiteshKoushik)
- - [UNDER-REVIEW] The Engineering behind Regex & Email by [vxsha-256](https://github.com/2SpaceMasterRace) 
+ - [UNDER-REVIEW] 
+   - The Engineering behind Regex & Email 
+   - First Chapter of Designing Data-Intensive Application
+   - Hash Table Internals
+   - Paper-Review: Raft Protocol
+   - Linux IOMMU deep dive
+
 
 ### ⌘ Hack Sessions:
 

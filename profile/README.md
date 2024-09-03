@@ -4,19 +4,27 @@ This study group is about the internals of compilers, programming languages, dis
 Since we're just starting out, we plan on meeting once a month on a random Sunday afternoon that will be decided in the WhatsApp/Discord GC and work on the planned topics listed here. Feel free to join us during these sessions and decide if this group suits you!
 
 # Upcoming Sessions
-```Pre-Season 02: August 18, 2024``` by [vxsha-256](https://github.com/2SpaceMasterRace) 
-- Zig internals + state of codebase
-- Personal Devlopment Environment: Basics with Omakub by DHH
-
+```OFFICIAL FIRST SESSION !``` by [vxsha-256](https://github.com/2SpaceMasterRace) 
+- **Zig Internals + Linux Kernel Module Programming**\
+    Zig is a self-hosted, low-level systems programming language which is just a joy to use. We'll be going over the internals of the language and developing a Linux kernel module on a x86-64 cloud VM.
+ 
 ### ⌘ Showcase
  - Simple Git-Server on EC2 by [Ritesh Koushik](https://github.com/IAmRiteshKoushik)
- - [UNDER-REVIEW] 
-   - The Engineering behind Regex & Email 
-   - First Chapter of Designing Data-Intensive Application
-   - Hash Table Internals
-   - Paper-Review: Raft Protocol
-   - Linux IOMMU deep dive
 
+### ⌘ Hack Sessions:
+
+- [vxsha-256](https://github.com/2SpaceMasterRace) 
+
+   - _Upcoming_:
+      - Disk-based Log-Structured Hash Table Store in Go
+      - Network programming in C x Going over the Berkeley Sockets API
+      - Tiny deep learning compiler & tensor library written in C++
+      - Multi-threaded proxy Server in Zig
+      - Personal-Devlopment-Environment: Personalizing Omakub by DHH
+      - Theory-Showase: The Engineering behind Regex & Email 
+      - Data-Structure-Internals: Hash Table
+      - Book-review: Designing Data-Intensive Application
+      - Paper-Review: Raft Protocol
 
 ### ⌘ Hack Sessions:
 

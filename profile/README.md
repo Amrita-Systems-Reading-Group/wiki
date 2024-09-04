@@ -16,10 +16,6 @@ Since we're just starting out, we plan on meeting once a month on a random Sunda
 - [vxsha-256](https://github.com/2SpaceMasterRace) 
 
    - _Upcoming_:
-      - Disk-based Log-Structured Hash Table Store in Go
-      - Network programming in C x Going over the Berkeley Sockets API
-      - Tiny deep learning compiler & tensor library written in C++
-      - Multi-threaded proxy Server in Zig
       - Personal-Devlopment-Environment: Personalizing Omakub by DHH
       - Theory-Showase: The Engineering behind Regex & Email 
       - Data-Structure-Internals: Hash Table
@@ -45,8 +41,6 @@ Since we're just starting out, we plan on meeting once a month on a random Sunda
 
 # Planned Events
 > ### *September 2024 - December 2024*
-
-✦ TBA
 
 ✦ **Reviewing DOOM**: 
 
@@ -117,7 +111,6 @@ Internals of JAX, ML systems and Compilers, SOTA papers such as Q*, and KANs, a 
         3. Cloud Infrastructure from scratch (Imagine Railway) 
         4. SystemsCon - hack around popular oss projects
         5. Formal methods & SAT solvers
-       
 
        
 # Ground Rules & General Information

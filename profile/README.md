@@ -90,7 +90,7 @@ Internals of JAX, ML systems and Compilers, SOTA papers such as Q*, and KANs, a 
 > [!NOTE]
 The only requirements you need to join the study group is the willingness to experiment and have fun. This is an all-inclusive community where there are little to no barriers. As with any social community, learn to take any constructive feedback and assume any critcism comes from a place of love and not malice. This is a CHILL community to share our love for systems, not to get you a $500k TC job. There are already tons of communities out there for it. We're here to learn and build awesome things at our own pace.
 
-While we'd love to hear about your startup / next big thing, we certainly don't want you use this as a platform for it. Unsolicited promotion that isn't mentioned explictly beforehand will result in insta-ban (Good luck with the appeal lol). Sponsered products will likely be exempted from this since I'l be screening it & make sure it's legit. To know more, send a [email](mailto:v.harivarsha@gmail.com) and I'll be happy to setup a meet / discuss more.
+While we'd love to hear about your startup / next big thing, we certainly don't want you use this as a platform for it. Unsolicited promotion that isn't mentioned explictly beforehand will result in insta-ban (Good luck with the appeal lol). Sponsered products will likely be exempted from this since I'l be screening it & make sure it's legit. To know more, send an [email](mailto:v.harivarsha@gmail.com) and I'll be happy to setup a meet / discuss more.
 
 
 # Feature List

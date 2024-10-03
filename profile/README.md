@@ -7,6 +7,10 @@ Since we're just starting out, we plan on meeting once a month on a random Sunda
 ### ⌘ ```OFFICIAL FIRST SESSION !``` by [vxsha-256](https://github.com/2SpaceMasterRace) 
 - **Zig Internals + Linux Kernel Module Programming**\
     Zig is a self-hosted, low-level systems programming language which is just a joy to use. We'll be going over the internals of the language and work on writing a Linux kernel module on a x86-64 Ubuntu 24.02 VM.
+
+- **Breaking down LevelDB** by [vxsha-256](https://github.com/2SpaceMasterRace) 
+ LevelDB is a fast key-value storage library written at Google written by the legenedary Jeff Dean himself. We'll be going over the performance and effortlessly clean code which can teach valuable design and programming patterns.
+
  
 ### ⌘ Showcase
  - Simple Git-Server on EC2 by [Ritesh Koushik](https://github.com/IAmRiteshKoushik)

@@ -1,19 +1,19 @@
 # Welcome to Arcane Systems Reading Group!
-This study group is about the internals of compilers, programming languages, distributed systems, databases, file formats, internet protocols, operating systems, browsers, emulators, and to build a community around this kind of exploration.  You're not expected to have attended previous weeks and expected to adhere to the standards of the Geneva War Convention (optional). 
+This study group is about the internals of compilers, programming languages, distributed systems, databases, file formats, internet protocols, operating systems, browsers, emulators, and to build a community around this kind of exploration.  You're not expected to have attended previous weeks and expected to adhere to the standards of the Geneva War Convention.
 
-Since we're just starting out, we plan on meeting once a month on a random Sunday afternoon that will be decided in the WhatsApp/Discord GC and work on the planned topics listed here. Feel free to join us during these sessions and decide if this group suits you!
+Since we're just starting out, we plan on meeting once a month on a random Sunday afternoon that will be decided in the WhatsApp / Discord GC and work on the planned topics listed here. Feel free to join us during these sessions and decide if this group suits you!
+
+> [!CAUTION]
+Join ASRG GC here: https://chat.whatsapp.com/CQmHWWzGzVeHLC6TcuGmmm
 
 # Upcoming Sessions
 ### ⌘ ```OFFICIAL FIRST SESSION !``` by [vxsha-256](https://github.com/2SpaceMasterRace) 
-- **Zig Internals + Linux Kernel Module Programming**\
-    Zig is a self-hosted, low-level systems programming language which is just a joy to use. We'll be going over the internals of the language and work on writing a Linux kernel module on a x86-64 Ubuntu 24.02 VM.
+✦ **Linux Kernel Module Programming**\
+    Let's write a Linux kernel module on a x86-64 Ubuntu 24.02 VM because I am scared of corrupting my own PC. We'll be using The [Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/), a free book by Peter Jay Salzman, Michael Burian, Ori Pomerantz, Bob Mottram, Jim Huang. 
 
-- **Breaking down LevelDB** by [vxsha-256](https://github.com/2SpaceMasterRace) 
- LevelDB is a fast key-value storage library written at Google written by the legenedary Jeff Dean himself. We'll be going over the performance and effortlessly clean code which can teach valuable design and programming patterns.
+✦ **Reviewing DOOM**: 
 
- 
-### ⌘ Showcase
- - Simple Git-Server on EC2 by [Ritesh Koushik](https://github.com/IAmRiteshKoushik)
+Explore DOOM 3 Source Code and its engineering, such as the Quake III arena engine, Binary Space Partitioning, Fast inverse square root algorithm, Lectures from John Carmack & more. We read and discuss all things DOOM including watching it run in weird place.
 
 ### ⌘ Hack Sessions:
 
@@ -27,10 +27,6 @@ Since we're just starting out, we plan on meeting once a month on a random Sunda
 
 
 # Byte-Sized Workshops
-
-✦ **Reviewing DOOM**: 
-
-Explore DOOM 3 Source Code and its engineering, such as the Quake III arena engine, Binary Space Partitioning, Fast inverse square root algorithm, Lectures from John Carmack & more.
 
 ✦ **PL & The Web**:
 
@@ -46,13 +42,13 @@ Go over the Crafting Interpreters Book, Dive into Reproducible builds with Nix, 
 
 Intro to Networking fundamentals, Practical end-to-end Authenticated Encryption, Speedrunning computer networking, and Reading Post-Mortems of Catastrophic Failure in Big Tech Companies.
 
-✦ **ML systems & Advanced Hardware (Semiconductors + GPU)**:
+✦ **ML systems & Advanced Hardware (Semiconductors + GPUs)**:
 
-Internals of JAX, ML systems and Compilers, SOTA papers such as Q*, and KANs, a short look into the advancements in semiconductors and computer graphics (via conferences, video game company-specific blog posts, etc). 
+Internals of JAX, ML systems and Compilers, Alternate experiments such as Q*, and KANs, Exploring advancements in semiconductors and accelerators for machine learning. 
 
 #  Scheduled Events
 
-##### [x] BSOD ( biweekly sessions of development ) :
+##### [x] BSOD ( bimonthly sessions of development ) :
 
 > BSOD is a one-week intense jam where you implement a cool piece of software from scratch. Writing something from scratch turns theory into practice. You may think you know how a piece of technology works, but until you write it yourself, you truly wouldn't understand it completely.
 
@@ -60,7 +56,7 @@ Internals of JAX, ML systems and Compilers, SOTA papers such as Q*, and KANs, a 
 
      *Designing SIMD Algorithm from Scratch,  Building your own TCP/IP,   Modern SOTA in-memory cache implementation, and Rebuilding Redis from the ground up.*       
 
-2. **Deployment from Scratch**: over-engineering a website as of 2024 by [vxsha-256](https://github.com/2SpaceMasterRace)
+2. **Deployment from Scratch**: over-engineering a website in the 21st century by [vxsha-256](https://github.com/2SpaceMasterRace)
 
      *Learn how how web-apps work in production by working on our very own website - ASRG.tech! Learn the fundamentals for setting up servers and provisioning databases while gaining real-life experience.*       
 3. **OS-Dev**: 4-week speedrun of building a mini-os from scratch with Rust and C by  [vxsha-256](https://github.com/2SpaceMasterRace)
@@ -78,17 +74,12 @@ Internals of JAX, ML systems and Compilers, SOTA papers such as Q*, and KANs, a 
 
 ##### [x] OCaml My Caml :
 
-> A week-long hacking retreat to work on a variety of OCaml projects, including but not limited to the compiler, concurrency libraries, platform tooling, and benchmarking. Dive into functional programming and learn to appreciate actual ML languages instead of drooling over a whitepaper like Haskell.
+> A week-long hacking retreat to work on a variety of OCaml projects, including but not limited to the compiler, concurrency libraries, platform tooling, and benchmarking. Dive into functional programming and learn to appreciate actual ML languages instead of drooling over a whitepaper like Haskell /s.
 
 
 ##### [x] Open Session :
 
 > Free-for-all kind of event where people give talks, get help on their homework/projects and work on random stuff. This is open to all and is an excellent way to integrate into the community. You can even just sit and watch what each member is doing without necessarily needing to pair-program.
-
-- [Ritesh Koushik](https://github.com/IAmRiteshKoushik)
-
-     1. Build a Centralized Package Registry for Go (like npm or crates)
-     2. Build your own AWS S3 
        
 # Ground Rules & General Information
 > [!NOTE]

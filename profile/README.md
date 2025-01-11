@@ -98,7 +98,7 @@ As the group name's suggests, we're more focused on niche and exciting problems 
     Contributions welcome! Just open an issue and I'll get in touch shortly.
 
 # Contribution Guide
-
+shoutout to [Praneeth](https://github.com/PraneethV-cmd) for the write-up.
 ### Project Ideas:
 1. Check if your project ideas satisfy the requirements specified in the ground rules.
 2. If so, check the existing project ideas to see if your idea integrates nicely with one
